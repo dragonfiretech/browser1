@@ -8,19 +8,19 @@ Simple Browser
 A simple web browser built using PyQt5.
 Features
 
-    Navigation bar with back, forward, and refresh buttons
-    Address bar to enter URLs
-    Webview to display web pages
+Navigation bar with back, forward, and refresh buttons
+Address bar to enter URLs
+Webview to display web pages
 
 Requirements
 
-    PyQt5
+    pip install PyQt5
 
 Usage
 
 To run the browser, open a terminal and navigate to the directory containing the script, then enter the following command:
 
-python3 browser1.py
+    python3 browser1.py
 
 The browser window will open, and you can use the navigation bar and address bar to browse the web.
 Customization
